@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">MessagesDemo</string>
+	<string name="start_getting_messages">Start getting messages</string>
+	<string name="stop_getting_messages">Stop getting messages</string>
+	<string name="messages_service_text">Messages service is working</string>
+	<string name="messages_service_title">Messages service</string>
+</resources>
